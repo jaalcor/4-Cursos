@@ -1,0 +1,71 @@
+.barra{
+    width: 37.5rem;
+    height: 5rem;
+    background-color: rgb(236, 232, 232);
+}
+.primero{
+    width: 15rem ;
+    height: 15rem ;
+
+    padding: 3rem 1rem 0.5rem 1rem;
+
+}
+.segundo{
+    width: 15rem ;
+    height: 15rem ;
+
+    padding: 3rem 1rem 0.5rem 1rem;
+
+
+}
+.tercero{
+    width: 15rem ;
+    height: 15rem ;
+
+    padding: 3rem 1rem 0.5rem 1rem;
+
+
+}
+.cuarto{
+    width: 15rem ;
+    height: 15rem ;
+
+    padding: 3rem 1rem 0.5rem 1rem;
+
+
+}
+.primer_bloque{
+    width: 37.5rem ;
+    height: 20rem ;
+   
+
+}
+.segundo_bloque{
+    width: 37.5rem ;
+    height: 20rem ;
+    border: 1px solid black;
+}
+.tercer_bloque{
+    width: 37.5rem ;
+    height: 20rem ;
+    border: 1px solid black;
+}
+.cuarto_bloque{
+    width: 37.5rem ;
+    height: 20rem ;
+    border: 1px solid black;
+}
+.level{
+
+    width: 3rem;
+    height: 2rem;
+    border-radius: 1px;
+    background-color: gainsboro;
+    color: black;
+    font-size: 1rem;
+
+    padding: 1rem 1rem 1rem 1rem  ;
+    justify-content: right;
+    align-items: center;
+    
+}
